@@ -4,7 +4,7 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 
-name:           palindrome-checker
+name:           residenti
 version:        0.1.0.0
 description:    Please see the README on GitHub at <https://github.com/githubuser/palindrome-checker#readme>
 homepage:       https://github.com/githubuser/palindrome-checker#readme
