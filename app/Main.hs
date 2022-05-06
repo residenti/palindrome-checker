@@ -12,4 +12,4 @@ main = do
   let response = if isPalindrome text
         then "it is!"
         else "it's not!"
-  TIO.putStrLn respons
+  TIO.putStrLn response
