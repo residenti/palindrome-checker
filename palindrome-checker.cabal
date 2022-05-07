@@ -25,7 +25,7 @@ source-repository head
 
 library
   exposed-modules:
-      Lib
+      Palindrome
   other-modules:
       Paths_palindrome_checker
   hs-source-dirs:
